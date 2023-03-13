@@ -38,6 +38,6 @@ IMPORTANT NOTE: the datsets and models are too large to be uploaded to github (o
 There are two sub-directories:
 
 - streamlit: to create the streamlit dashboard
-- API: to create the porject API
+- API: to create the pooject API
 
 
