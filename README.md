@@ -33,7 +33,7 @@ The seclected model for the project was RFR
 
 This directory contains the files and scripts used to deploy the API and streamlit dashboard.
 
-IMPORTANT NOTE: the datsets and models are too large to be uploaded to github (on average for these files around 150mb). For the code to work, the archves.zip files must be decompressed and the trainfr.py scrit run to produce the relevant model saved as "elec.joblib".
+IMPORTANT NOTE: the datsets and models are too large to be uploaded to github (on average for these files are around 150mb). For the code to work, the archves.zip files must be decompressed and the trainfr.py script run to produce the relevant model saved as "elec.joblib".
 
 There are two sub-directories:
 
