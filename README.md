@@ -1,7 +1,5 @@
 # Bloc 6 - Direction de projets de gestion de données
 
-This bloc is to submit the final requirements for the data scientist certificate. The project was done in collaboration with four other certification candidates. The goal was to create and deploy and an app capable of predicting day-to-day electricty consumption in France.
-
 For any inquireies please contact : ymilo.certification@protonmail.com
 
 You will find three relevant links:
